@@ -1,7 +1,7 @@
 
 streamlit
 pandas
-rdkit
+rdkit==2024.9.6
 Pillow
 
 
